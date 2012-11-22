@@ -42,6 +42,6 @@ public class Veletlenszam {
         }
         
         System.out.println(randomNumbers);
-        
+        System.out.println("Vége.");
     }
 }
