@@ -42,5 +42,6 @@ public class Veletlenszam {
         }
         
         System.out.println(randomNumbers);
+        System.out.println("És a további változtatásom a masterbe...");
     }
 }
