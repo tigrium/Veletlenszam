@@ -42,6 +42,6 @@ public class Veletlenszam {
         }
         
         System.out.println(randomNumbers);
-        System.out.println("eclipse-bõl módosítva.");
+        System.out.println("eclipse-bÅ‘l mÃ³dosÃ­tva. - mÃ¡s Ã©kezetek...");
     }
 }
