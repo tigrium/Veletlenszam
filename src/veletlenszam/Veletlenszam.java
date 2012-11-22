@@ -41,6 +41,6 @@ public class Veletlenszam {
             numbers.remove(index);
         }
         
-        System.out.println(randomNumbers + ".");
+        System.out.println(randomNumbers);
     }
 }
